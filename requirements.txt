@@ -1,0 +1,2 @@
+# MoviePy GIF Creation
+moviepy==1.0.3
